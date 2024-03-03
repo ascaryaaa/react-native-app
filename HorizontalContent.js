@@ -39,6 +39,7 @@ const style = StyleSheet.create({
     Image: {
         width: 130,
         height: 120,
+        borderRadius: 5,
     },
     title: {
         width: "100%",
@@ -46,7 +47,7 @@ const style = StyleSheet.create({
         textAlign: "center"
     },
     box:{
-        padding: 2,
+        padding: 5,
     }
 })
 
